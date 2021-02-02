@@ -3,17 +3,18 @@ body {
     margin: 0px;
     font-family: "Imbue";
     font-size: 30px;
+    background-image: url(..//ronaldsdaddy.github.io/bilde3.jpg);
 }
 
 
 
 .about {
-    background-color: rgb(130, 223, 24);
+    background-color: rgb(245, 62, 62);
     padding: 0px;
 }
 
 .projects {
-    background-color: rgba(231, 231, 25, 0.911);
+    background-color: rgba(233, 233, 29, 0.911);
     padding: 10px;
 }
 
