@@ -9,12 +9,11 @@ body {
 
 
 .about {
-    background-color: rgb(245, 62, 62);
     padding: 0px;
 }
 
 .projects {
-    background-color: rgba(233, 233, 29, 0.911);
+   
     padding: 10px;
 }
 
@@ -32,8 +31,11 @@ body {
     padding: 10px;
 }
 
+p{
+    color:white;
+}
 .project {
-    background-color: orangered;
+  
 }
 
 .button {
